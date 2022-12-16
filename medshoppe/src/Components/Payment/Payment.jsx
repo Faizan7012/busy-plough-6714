@@ -30,6 +30,8 @@ export default function Payment() {
               <p className="fw-bold mb-4 pb-2">Saved cards:</p>
               <div className="d-flex flex-row align-items-center mb-4 pb-1">
                 <img
+
+                alt="iuhgb"
                   className="img-fluid"
                   src="https://img.icons8.com/color/48/000000/mastercard-logo.png"
                 />
@@ -48,6 +50,7 @@ export default function Payment() {
               </div>
               <div className="d-flex flex-row align-items-center mb-4 pb-1">
                 <img
+                alt="iuhb"
                   className="img-fluid"
                   src="https://img.icons8.com/color/48/000000/visa.png"
                 />
